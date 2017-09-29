@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.olivierlemasle</groupId>
     <artifactId>java-certificate-authority</artifactId>
-    <version>1.0.0</version>
+    <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>${project.groupId}:${project.artifactId}</name>
     <url>https://github.com/olivierlemasle/java-certificate-authority</url>
@@ -22,7 +22,7 @@
 
     <modules>
         <module>java-ca-lib</module>
-        <!--<module>ca-api</module>-->
+        <module>ca-api</module>
     </modules>
 
     <properties>
