@@ -4,7 +4,7 @@
     <parent>
         <groupId>io.github.olivierlemasle</groupId>
         <artifactId>java-certificate-authority</artifactId>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
     </parent>
     <artifactId>java-ca-lib</artifactId>
     <name>${project.groupId}:${project.artifactId}</name>
